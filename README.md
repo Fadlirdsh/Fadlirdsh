@@ -1,9 +1,11 @@
 ## Hey there! 👋 I'm Pablo A.K.A Pabz
 
- <img src="thejak.jpg" alt="The Jakmania" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0;" />
+<p align="center">
+  <img src="thejak.jpg" alt="The Jakmania" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0;" />
+</p>
 
-I'm a **young web developer** passionate about building cool stuff with **PHP, HTML, CSS, and JavaScript**.  
-I love turning ideas into code and learning new things every single day! 🚀
+I'm a **junior web developer** passionate about building cool stuff with **PHP, HTML, CSS, and JavaScript**.  
+Every line of code I write helps me grow — I love turning ideas into real projects and learning new things every single day! 🚀  
 
 ---
 
@@ -53,14 +55,15 @@ Always open to **collab on fun projects**, contribute to **open source**, or jus
 ### 📫 Let's Connect
 
 - Email: **fadliwoles12@gmail.com**  
-- Instagram: [@fadli_username](https://instagram.com/fadlirdsh)
+- Instagram: [@fadlirdsh](https://instagram.com/fadlirdsh)
 
 ---
 
 ### ⚡ Fun Facts
 
 - I’m most productive when it’s quiet 💻  
-- Huge fan of **The Jakmania & CKM Roars**  
+- Proud **Junior Developer** — learning every day with passion 💡  
+- Big fan of **The Jakmania & CKM Roars**  
 - Coffee + Code = Perfect Combo ☕
 
 ---
