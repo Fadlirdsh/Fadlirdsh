@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Pablo
 
-![The Jakmania](thejak.jpg)
+<img src="thejak.jpg" alt="The Jakmania" width="200" style="border-radius: 10px; margin-bottom: 10px;" />
 
 I'm a **young web developer** learning **PHP, HTML, CSS, and JavaScript**.  
 I enjoy building fun projects and improving my coding skills every day! 🚀
