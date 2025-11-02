@@ -1,6 +1,6 @@
-## Hey there! 👋 I'm Pablo aka Pabz
+## Hey there! 👋 I'm Pablo A.K.A Pabz
 
-<img src="thejak.jpg" alt="The Jakmania" width="400" style="border-radius: 10px; margin: 20px 0;" />
+ <img src="thejak.jpg" alt="The Jakmania" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0;" />
 
 I'm a **young web developer** passionate about building cool stuff with **PHP, HTML, CSS, and JavaScript**.  
 I love turning ideas into code and learning new things every single day! 🚀
