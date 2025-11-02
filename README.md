@@ -1,31 +1,30 @@
-## Hi there! 👋 I'm Pablo
+## Hey there! 👋 I'm Pablo aka Pabz
 
-<img src="thejak.jpg" alt="The Jakmania" width="200" style="border-radius: 10px; margin-bottom: 10px;" />
+<img src="thejak.jpg" alt="The Jakmania" width="400" style="border-radius: 10px; margin: 20px 0;" />
 
-I'm a **young web developer** learning **PHP, HTML, CSS, and JavaScript**.  
-I enjoy building fun projects and improving my coding skills every day! 🚀
-
----
-
-### 🌱 Current Focus
-
-- Learning **Laravel** & **React** for web apps
-- Experimenting with **AI & Face Recognition**
-- Building projects for **practice & portfolio**
+I'm a **young web developer** passionate about building cool stuff with **PHP, HTML, CSS, and JavaScript**.  
+I love turning ideas into code and learning new things every single day! 🚀
 
 ---
 
-### 💻 Projects
+### 🌱 What I'm Working On
 
-- **Gym Management App** 🏋️‍♂️
-- **Restaurant Ordering App** 🍽️
-- **Donation Platform** 💰
+- Leveling up my skills in **Laravel** & **React**
+- Exploring **AI & Face Recognition**
+- Building side projects for **practice and portfolio**
+
+---
+
+### 💻 Featured Projects
+
+- **Gym Management App** 🏋️‍♂️  
+- **Restaurant Ordering System** 🍽️  
+- **Donation Platform** 💰  
 
 ---
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
 <p align="center">
   <img src="ckm.png" width="50" alt="CKM Roars" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" style="margin: 10px;" />
@@ -39,31 +38,30 @@ I enjoy building fun projects and improving my coding skills every day! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" style="margin: 10px;" />
 </p>
 
-
 ---
 
-### 👯 Collaboration
+### 🤝 Collaboration
 
-Looking to collaborate on **fun projects**, **open source contributions**, or just to **learn together**! ✨
+Always open to **collab on fun projects**, contribute to **open source**, or just **learn together!** ✨
 
 ### 💬 Ask Me About
 
-- Web development & coding
-- Project ideas & management
-- The Jakmania & community activities
+- Web development & app ideas  
+- Project planning & teamwork  
+- The Jakmania & community activities  
 
-### 📫 Reach Me
+### 📫 Let's Connect
 
-- Email: **fadli@example.com**
-- Instagram: [@fadli_username](https://instagram.com/fadli_username)
+- Email: **fadliwoles12@gmail.com**  
+- Instagram: [@fadli_username](https://instagram.com/fadlirdsh)
 
 ---
 
 ### ⚡ Fun Facts
 
-- I work best quietly 💻
-- Big fan of **The Jakmania & CKM Roars**
-- Love collecting code snippets and coffee ☕
+- I’m most productive when it’s quiet 💻  
+- Huge fan of **The Jakmania & CKM Roars**  
+- Coffee + Code = Perfect Combo ☕
 
 ---
 
