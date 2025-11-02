@@ -17,12 +17,15 @@ I enjoy building fun projects and improving my coding skills every day! 🚀
 - **Restaurant Ordering App** 🍽️
 - **Donation Platform** 💰
 
-### 🛠️ Skills
-**PHP** ▓▓▓▓▓░░░ 60%  
-**Laravel** ▓▓▓▓░░░░ 50%  
-**JavaScript** ▓▓▓▓▓░░░ 60%  
-**React** ▓▓▓░░░░░ 40%  
-**HTML/CSS** ▓▓▓▓▓▓░░ 70%  
+### 🛠️ Tech Stack
+- **PHP** ▓▓▓▓▓░░░ 60%  
+- **Laravel** ▓▓▓▓░░░░ 50%  
+- **JavaScript** ▓▓▓▓▓░░░ 60%  
+- **TypeScript / TSX** ▓▓▓░░░░░ 40%  
+- **React** ▓▓▓░░░░░ 40%  
+- **Ionic Framework** ▓▓▓▓░░░░ 50%  
+- **Node.js** ▓▓▓░░░░░ 40%  
+- **HTML / CSS** ▓▓▓▓▓▓░░ 70%  
 
 ### 👯 Collaboration
 Looking to collaborate on **fun projects**, **open source contributions**, or just to **learn together**! ✨
@@ -45,4 +48,3 @@ Looking to collaborate on **fun projects**, **open source contributions**, or ju
 
 #### 📊 GitHub Stats
 ![Fadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadlirdsh&show_icons=true&theme=radical)
-
