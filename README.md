@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Pablo
 
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![The Jakmania](thejak.jpg)
 
 I'm a **young web developer** learning **PHP, HTML, CSS, and JavaScript**.  
 I enjoy building fun projects and improving my coding skills every day! 🚀
@@ -8,17 +8,23 @@ I enjoy building fun projects and improving my coding skills every day! 🚀
 ---
 
 ### 🌱 Current Focus
-- Learning **Laravel** & **React** for web apps
-- Experimenting with **AI & Face Recognition**
+- Learning **Laravel** & **React** for web apps  
+- Experimenting with **AI & Face Recognition**  
 - Building projects for **practice & portfolio**
 
+---
+
 ### 💻 Projects
-- **Gym Management App** 🏋️‍♂️
-- **Restaurant Ordering App** 🍽️
+- **Gym Management App** 🏋️‍♂️  
+- **Restaurant Ordering App** 🍽️  
 - **Donation Platform** 💰
+
+---
 
 ### 🛠️ Tech Stack
 <p align="center">
+  <img src="ckm.png" width="50" alt="CKM Roars" />
+  <img src="thejak.jpg" width="50" alt="The Jakmania" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
@@ -30,6 +36,8 @@ I enjoy building fun projects and improving my coding skills every day! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
 </p>
 
+---
+
 ### 👯 Collaboration
 Looking to collaborate on **fun projects**, **open source contributions**, or just to **learn together**! ✨
 
@@ -40,7 +48,9 @@ Looking to collaborate on **fun projects**, **open source contributions**, or ju
 
 ### 📫 Reach Me
 - Email: **fadli@example.com**  
-- Instagram: [@fadli_username](https://instagram.com/fadli_username)  
+- Instagram: [@fadli_username](https://instagram.com/fadli_username)
+
+---
 
 ### ⚡ Fun Facts
 - I work best quietly 💻  
@@ -50,4 +60,7 @@ Looking to collaborate on **fun projects**, **open source contributions**, or ju
 ---
 
 #### 📊 GitHub Stats
-![Fadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadlirdsh&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadlirdsh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlirdsh&layout=compact&theme=radical" />
+</p>
