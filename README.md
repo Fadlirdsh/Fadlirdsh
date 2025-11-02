@@ -18,14 +18,17 @@ I enjoy building fun projects and improving my coding skills every day! 🚀
 - **Donation Platform** 💰
 
 ### 🛠️ Tech Stack
-- **PHP** ▓▓▓▓▓░░░ 60%  
-- **Laravel** ▓▓▓▓░░░░ 50%  
-- **JavaScript** ▓▓▓▓▓░░░ 60%  
-- **TypeScript / TSX** ▓▓▓░░░░░ 40%  
-- **React** ▓▓▓░░░░░ 40%  
-- **Ionic Framework** ▓▓▓▓░░░░ 50%  
-- **Node.js** ▓▓▓░░░░░ 40%  
-- **HTML / CSS** ▓▓▓▓▓▓░░ 70%  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React / TSX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50" alt="Ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
+</p>
 
 ### 👯 Collaboration
 Looking to collaborate on **fun projects**, **open source contributions**, or just to **learn together**! ✨
